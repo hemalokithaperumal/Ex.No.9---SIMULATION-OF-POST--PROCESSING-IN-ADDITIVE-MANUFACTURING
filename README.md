@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 29-04-2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![output 6 2](https://github.com/hemalokithaperumal/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144925008/199422a7-6949-4ae2-96c7-1a598366c1b3)
+
+
+### Name: HEMA LOKITHA P
+### Register Number: 212223110014
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
